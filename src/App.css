@@ -50,3 +50,8 @@
   background-color: #F6F7F8;
   padding : 40px 100px;
 }
+
+.card-wrapper.completed {
+  background-color: #d3ffd3;
+  text-decoration: line-through;
+}
